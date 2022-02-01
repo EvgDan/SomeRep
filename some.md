@@ -1,6 +1,6 @@
 **some info**
 
-> another text
+> another text conflict
 
 
 kkdfhkjbdk
